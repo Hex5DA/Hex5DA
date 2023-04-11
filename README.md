@@ -4,7 +4,7 @@
 
 i'm will, or 0x5DA! i like rust, linux and portal.
 
-check out @DaNubProgramming
+check out @DaNubCoding
 
 there's not much else to say 😅
 
